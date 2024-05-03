@@ -10,7 +10,7 @@ Download, and then create a .env file with your information. Run the schema, see
 
 ## Usage
 
-Video walkthrough: 
+Video walkthrough: https://drive.google.com/file/d/1orG0NTD9l_beJ8WYYJVeSgHXUhVVT_GG/view?usp=sharing
 
 Run the server and open insomnia. Enter the required information to get, update(put), add (post) or delete data. Refer to the video walkthrough for specifics.
 
